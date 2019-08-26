@@ -18,6 +18,6 @@ public class DeptApiController {
     @GetMapping
     public List<String> getTest(){
 
-        return Arrays.asList("1","2","3");
+        return Arrays.asList("1","2","3","4");
     }
 }
